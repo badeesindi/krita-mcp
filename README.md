@@ -1,4 +1,4 @@
-# Krita MCP Server
+# Krita MCP Server Qt6 / PyQt6 Compatibility
 
 Let AI paint in [Krita](https://krita.org/) via the [Model Context Protocol](https://modelcontextprotocol.io/).
 
